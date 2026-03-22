@@ -6,16 +6,15 @@
 name=Power Atom Client
 qgisMinimumVersion=3.28
 qgisMaximumVersion=4.99
-supportsQt6=True
 description=All new INSPIRE Atom Client for QGIS.
-version=1.0
+version=1.0.1
 author=Łukasz Świątek
 email=lukasz.swiatek1996@gmail.com
 
 about=Modern Atom Clinet for QGIS3 and QGIS4. Just paste url, load feed, fetch record and download data.
 
-tracker=http://github.com/Rzezimioszek
-repository=http://github.com/Rzezimioszek
+tracker=https://github.com/Rzezimioszek/Power-Atom-Client/issues
+repository=https://github.com/Rzezimioszek/Power-Atom-Client
 # End of mandatory metadata
 
 # Recommended items:
