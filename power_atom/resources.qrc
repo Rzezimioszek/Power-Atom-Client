@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/power_atom" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
