@@ -8,7 +8,7 @@ author=Łukasz Świątek
 email=lukasz.swiatek1996@gmail.com
 # About
 Modern Atom Clinet for QGIS3 and QGIS4. Just paste url, load feed, fetch record and download data.
-# Changelog=
+# Changelog
  1.0 First relase of new INSPIRE ATOM Client
 
 
